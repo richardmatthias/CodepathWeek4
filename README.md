@@ -1,20 +1,20 @@
-# Project 4 - *Name of App Here*
+# Project 4 - *Instagram*
 
-**Name of your app** is a photo sharing app using Parse as its backend.
+**Instagram** is a photo sharing app using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can sign up to create a new account using Parse authentication (+1pt)
-- [ ] User can log in and log out of his or her account (+1pt)
-- [ ] The current signed in user is persisted across app restarts (+1pt)
-- [ ] User can take a photo, add a caption, and post it to "Instagram" (+2pt)
-- [ ] User can view the last 20 posts submitted to "Instagram" (+2pt)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram" (+1pt)
-- [ ] User can tap a post to view post details, including timestamp and caption (+2pt)
+- [X ] User can sign up to create a new account using Parse authentication (+1pt)
+- [X ] User can log in and log out of his or her account (+1pt)
+- [X ] The current signed in user is persisted across app restarts (+1pt)
+- [X ] User can take a photo, add a caption, and post it to "Instagram" (+2pt)
+- [X ] User can view the last 20 posts submitted to "Instagram" (+2pt)
+- [X ] User can pull to refresh the last 20 posts submitted to "Instagram" (+1pt)
+- [X ] User can tap a post to view post details, including timestamp and caption (+2pt)
 
 The following **stretch** features are implemented:
 
@@ -41,14 +41,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1.Advanced Parse mechanics
+2.Photo resizing and formatting
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ZeSshPv.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
